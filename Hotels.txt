@@ -1,0 +1,10 @@
+Hilton
+156.14 168.50
+Marriott
+165.88 179.00
+Holiday Inn
+94.00 139.00
+Westin
+127.00 177.00
+Best Western
+149.00 169.00
